@@ -1,15 +1,15 @@
-# Anti-Fascist MIT License
+# Anti-Furry MIT License
 
-> MIT license with additional text to prohibit use by fascists
+> MIT license with additional text to prohibit use by furries
 
 ### [READ LICENSE TEXT](./LICENSE)
 
 ---
 
 I love Open Source, and I want to give my software away to as many people as
-possible. However, I refuse to let my work benefit those who support fascism.
+possible. However, I refuse to let my work benefit those who support furries.
 
-If you are not a fascist and don't actively support any fascists, you have
+If you are not a furry and don't actively support any furries, you have
 absolutely nothing to worry about. I will not pursue any legal claims against
 you, even if my license text is poorly written.
 
